@@ -19,7 +19,5 @@ public class PrintExample {
         runner(() -> System.out.println("Adnan"));
         runner(() -> System.out.println("Kamran"));
 
-
-
     }
 }
